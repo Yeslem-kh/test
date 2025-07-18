@@ -2,7 +2,9 @@
 
 ## Introduction
 
-Welcome to the **Amazing Project**! We would like to express our sincere gratitude for your support in assisting us with the project setup. This guide will provide clear instructions on how to configure and execute the pipeline efficiently.
+Hello Professor 👋,
+
+First, we want to thank you for your support and for the amazing project. This guide will provide clear instructions on how to configure and execute the pipeline efficiently.
 
 ## Prerequisites
 
@@ -23,3 +25,4 @@ Before running the pipeline, please ensure you meet the following requirements:
    The OWASP ZAP proxy should be running on the same machine. To do this, execute the following command:
    ```bash
    /usr/share/zaproxy/zap.sh -daemon -port 8090 -host 0.0.0.0 -config api.disablekey=true
+Thank you, Professor. We really appreciate your support
